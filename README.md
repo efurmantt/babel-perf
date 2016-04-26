@@ -1,13 +1,13 @@
 # babel-perf
-Performance test of babel compiling hello world
+Performance test of babel compiling hello world.
 
-This repo demonstrates the issue raised here: https://phabricator.babeljs.io/T7314
+This repo demonstrates the issue raised here: https://phabricator.babeljs.io/T7314.
 
 # Instructions
 
-git clone https://github.com/efurmantt/babel-perf
-npm install
-npm run compile
+    git clone https://github.com/efurmantt/babel-perf
+    npm install
+    npm run compile
 
 # Result
 
